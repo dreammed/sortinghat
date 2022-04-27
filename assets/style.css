@@ -1,0 +1,40 @@
+body{
+    /* font-family: 'Sarabun', sans-serif;
+    font-size: 1rem;
+    color: #fff;
+    margin: 0;
+    min-height: 100vh;
+    overflow-x: hidden; */
+    background-image: url("@/assets/img/kudsun.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+
+.card-container.card {
+    font-family: 'Sarabun', sans-serif;
+    max-width: 380px;
+    padding: 10px 10px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+.card-body {
+    /* font-family: 'THSarabunNew', sans-serif; */
+    padding: 10px 10px;
+}
+
+.card-header{
+    background-image: linear-gradient(to bottom, #3F51B5, #041886);
+    color: #fff;  
+}
+
+.card-footer {
+    text-align: center;
+    background-color: #3F51B5;
+    color: #fff;
+    /* font-family: 'THSarabunNew', sans-serif; */
+}
