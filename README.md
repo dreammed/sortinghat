@@ -1,7 +1,7 @@
 # kudsun hat
 
 ## Build Setup
-need nodjs please install fisrt https://nodejs.org/en/download/
+need nodejs please install fisrt https://nodejs.org/en/download/
 
 ```bash
 # install dependencies
