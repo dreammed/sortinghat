@@ -137,7 +137,7 @@ export default {
     async getName() {
       try {
         // api random name
-        const name = await this.$axios.$get('http://localhost:3005/api/');
+        const name = await this.$axios.$get('/api/');
       return name
       } catch (error) {
         console.log(error);
